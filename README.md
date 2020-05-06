@@ -2,7 +2,7 @@
 
 ## About
 
-The file 'Quantum Computing Project.ipynb' contains an interactive walkthrough to some of the concepts and applications of quantum teleportation. Each of the quantum circuits were constructed by utilizing IBM’s Qiskit software, a free and easy to use Python package (see below for installation)
+The file 'QuantumTeleportation.ipynb' contains an interactive walkthrough to some of the concepts and applications of quantum teleportation. Each of the quantum circuits were constructed by utilizing IBM’s Qiskit software, a free and easy to use Python package (see below for installation)
 
 ## Installation
 
